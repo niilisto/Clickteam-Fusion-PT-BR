@@ -1198,7 +1198,7 @@
 		"Do not run from stand-alone applications": "Proibir a execução de aplicativos independentes",
 		"Do not select deleted objects in child events": "Não selecione objetos destruídos em eventos filhos",
 		"Do not share data if run as sub-application": "Não compartilhe dados se estiver executando como um subaplicativo",
-		"Do not stop screen saver when input event": "Não pare a proteção quando ocorrer um evento de mouse ou teclado",
+		"Do not stop screen saver when input event": "Não pare o protetor de tela quando ocorrer um evento de mouse ou teclado",
 		"Do nothing": "Não faça nada",
 		"Do you really want to delete the toolbar '%s'?": "Tem certeza de que deseja remover a barra de ferramentas '%s'?",
 		"Do you want to change the palette of the other frames of this application?": "Quer alterar a paleta de outras cenas neste aplicativo?",
