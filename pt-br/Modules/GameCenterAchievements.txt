@@ -16,7 +16,7 @@
     "Achievement title of %s": "Título da conquista de %s",
     "Achievements": "Conquistas",
     "Banner background": "Fundo do banner",
-    "Check to automatically retrieve the list of achievements at start of frame": "Marcar para recuperar automaticamente a lista de conquistas no início do frame",
+    "Check to automatically retrieve the list of achievements at start of frame": "Marcar para recuperar automaticamente a lista de conquistas no início da cena",
     "Check to display a completion banner when the achievement reaches 100": "Marque para exibir um banner de conclusão quando o feito atingir 100",
     "Choose the color used to display the text of the banner": "Escolha a cor usada para exibir o texto do banner",
     "Choose the color used to display the title of the banner": "Escolha a cor usada para exibir o título do banner",

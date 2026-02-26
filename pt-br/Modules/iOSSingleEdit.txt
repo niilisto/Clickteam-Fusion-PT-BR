@@ -76,7 +76,7 @@
     "Text": "Texto",
     "Text color": "Cor do texto",
     "URL": "URL",
-    "Uncheck to hide the object at start of frame": "Desmarque para ocultar o objeto no início do frame",
+    "Uncheck to hide the object at start of frame": "Desmarque para ocultar o objeto no início da cena",
     "Visible at start": "Visível no início",
     "Yahoo": "Yahoo",
     "Yes": "Sim",

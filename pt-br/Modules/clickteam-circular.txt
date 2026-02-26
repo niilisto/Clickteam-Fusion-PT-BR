@@ -16,7 +16,7 @@
     "Control Ext.": "Extensão de Controle",
     "General Properties": "Propriedades Gerais",
     "Initial starting angle of the movement.": "Ângulo inicial de movimento.",
-    "Initially moving at start of frame.": "Inicialmente em movimento no início do frame.",
+    "Initially moving at start of frame.": "Inicialmente em movimento no início da cena.",
     "Maximum Spiral Radius": "Raio Máximo da Espiral",
     "Maximum size of the spiral's radius.": "Tamanho máximo do raio da espiral.",
     "Minimum Spiral Radius": "Raio Mínimo da Espiral",

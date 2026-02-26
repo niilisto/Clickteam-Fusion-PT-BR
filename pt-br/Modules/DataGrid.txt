@@ -93,7 +93,7 @@
     "Load %0": "Carregar %0",
     "Load ascii file %0 with delimitor %1": "Carregar arquivo ASCII %0 com delimitador %1",
     "Makes the cells editable by the user": "Torna as células editáveis pelo usuário",
-    "Makes the object visible at start of frame": "Torna o objeto visível no início do frame",
+    "Makes the object visible at start of frame": "Torna o objeto visível no início da cena",
     "My Action Parameter": "Meu Parâmetro de Ação",
     "My Condition Parameter": "Meu Parâmetro de Condição",
     "My Expression Parameter": "Meu Parâmetro de Expressão",

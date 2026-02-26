@@ -5,7 +5,7 @@
     "An error has occured": "Ocorreu um erro",
     "Auto-resize": "Redimensionar automaticamente",
     "Check the property to display the control buttons (play/stop/etc) under the video": "Marque a propriedade para exibir os botões de controle (reproduzir/pausar/etc.) abaixo do vídeo",
-    "Check this box to automatically put the video on pause at start of frame.": "Marque esta caixa para pausar automaticamente o vídeo no início do frame.",
+    "Check this box to automatically put the video on pause at start of frame.": "Marque esta caixa para pausar automaticamente o vídeo no início da cena.",
     "Check this box to automatically resize the video object to the original size of the video at start.": "Marque esta caixa para redimensionar automaticamente o objeto de vídeo para o tamanho original do vídeo no início.",
     "Check this box to display the video as another object, allowing active objects to overlap it.": "Marque esta caixa para exibir o vídeo como outro objeto, permitindo que objetos ativos se sobreponham a ele.",
     "Check to have the video loop": "Marcar para que o vídeo faça um loop",

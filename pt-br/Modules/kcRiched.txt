@@ -132,7 +132,7 @@
     "Keep file internal": "Manter arquivo interno",
     "Keep file internal, you wont need an external file": "Manter arquivo interno, você não precisará de um arquivo externo",
     "Link text": "Texto do link",
-    "Makes the object visible at start of frame": "Torna o objeto visível no início do frame",
+    "Makes the object visible at start of frame": "Torna o objeto visível no início da cena",
     "Makes the text unmodifiable": "Torna o texto imutável",
     "Multilevel UNDO": "Desfazer Multinível",
     "Name of RTF file": "Nome do arquivo RTF",

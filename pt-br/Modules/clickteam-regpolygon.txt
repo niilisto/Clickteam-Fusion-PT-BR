@@ -11,7 +11,7 @@
     "Clickteam Movement Controller": "Controlador de Movimento Clickteam",
     "Control Ext.": "Extensão de Controle",
     "General Properties": "Propriedades Gerais",
-    "Initially moving at start of frame.": "Inicialmente em movimento no início do frame.",
+    "Initially moving at start of frame.": "Inicialmente em movimento no início da cena.",
     "Move at Start": "Mover no Início",
     "Name of the extension used to interact with this movement.": "Nome da extensão usada para interagir com este movimento.",
     "Number of Sides": "Número de Lados",

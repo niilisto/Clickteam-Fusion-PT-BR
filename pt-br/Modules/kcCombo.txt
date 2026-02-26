@@ -59,7 +59,7 @@
     "Enter the new text": "Digite o novo texto",
     "Flag": "Bandeira",
     "Hide on start": "Esconder na inicialização",
-    "Hides the Combo box at start of frame": "Esconde a caixa de combinação no início do frame",
+    "Hides the Combo box at start of frame": "Esconde a caixa de combinação no início da cena",
     "If selected, first item will be number one. Number zero if not.": "Se selecionado, o primeiro item será o número um. Número zero se não for selecionado.",
     "Index": "Índice",
     "Line number to insert at": "Número da linha para inserir em",

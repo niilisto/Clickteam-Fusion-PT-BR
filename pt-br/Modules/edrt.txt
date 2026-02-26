@@ -100,7 +100,7 @@
     "System": "Sistema",
     "Tab": "Guia",
     "Text objects": "Objetos de texto",
-    "The current frame is not the same as the saved one.": "O frame atual não é o mesmo que o salvo.",
+    "The current frame is not the same as the saved one.": "A cena atual não é a mesma que a salva.",
     "The following object cannot be created: \"%s\".\n\nDo you want to continue anyway?": "O seguinte objeto não pode ser criado: \"%s\". Você deseja continuar mesmo assim?",
     "The following object cannot be created: \"%s\".\nError message reported: %s\n\nDo you want to continue anyway?": "O seguinte objeto não pode ser criado: \"%s\".\nMensagem de erro relatada: %s\n\nVocê deseja continuar mesmo assim?",
     "There is not enough available space in the temporary drive. Free some disk space and try again.": "Não há espaço disponível suficiente na unidade temporária. Libere algum espaço em disco e tente novamente.",

@@ -17,7 +17,7 @@
     "Final Y": "Y Final",
     "General Properties": "Propriedades Gerais",
     "Initial angle of the sine wave in degrees.": "Ângulo inicial da onda senoidal em graus.",
-    "Initially moving at start of frame.": "Inicialmente em movimento no início do frame.",
+    "Initially moving at start of frame.": "Inicialmente em movimento no início da cena.",
     "Line Properties": "Propriedades da Linha",
     "Move at Start": "Mover no Início",
     "Name of the extension used to interact with this movement.": "Nome da extensão usada para interagir com este movimento.",

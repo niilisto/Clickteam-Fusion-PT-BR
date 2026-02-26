@@ -4,7 +4,7 @@
   "general": {
     "An error has occured": "Ocorreu um erro",
     "Auto-resize": "Redimensionar automaticamente",
-    "Check this box to automatically put the video on pause at start of frame.": "Marque esta caixa para pausar automaticamente o vídeo no início do frame.",
+    "Check this box to automatically put the video on pause at start of frame.": "Marque esta caixa para pausar automaticamente o vídeo no início da cena.",
     "Check this box to automatically resize the video object to the original size of the video at start.": "Marque esta caixa para redimensionar automaticamente o objeto de vídeo para o tamanho original do vídeo no início.",
     "Check to have the video loop": "Marcar para que o vídeo faça um loop",
     "Displays a FLV video file from the Internet": "Exibe um arquivo de vídeo FLV da Internet",

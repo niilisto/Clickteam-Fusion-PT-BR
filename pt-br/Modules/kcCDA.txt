@@ -24,11 +24,11 @@
     "Lets you play compact disc audio tracks.": "Permite que você reproduza faixas de áudio de CD.",
     "Number of tracks on disk: %i": "Número de faixas no disco: %i",
     "Open driver at start": "Abrir o driver na inicialização",
-    "Opening the driver at start of frame makes the object faster during runtime": "Abrir o driver no início do frame torna o objeto mais rápido durante a execução",
+    "Opening the driver at start of frame makes the object faster during runtime": "Abrir o driver no início da cena torna o objeto mais rápido durante a execução",
     "Play track at start": "Reproduzir faixa no início",
     "Play when minimized": "Reproduzir quando minimizado",
     "Position in current track: %02i:%02i": "Posição na faixa atual: %02i:%02i",
-    "Stop playing at end of frame": "Parar de reproduzir no final do frame",
+    "Stop playing at end of frame": "Parar de reproduzir no final da cena",
     "Stops the music at end of frame": "Para de tocar a música no final da cena",
     "Total length of disk: %02i:%02i:%02i": "Duração total do disco: %02i:%02i:%02i"
   },

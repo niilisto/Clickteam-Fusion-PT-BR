@@ -25,6 +25,6 @@
     "Step Size in Y": "Tamanho do Passo em Y",
     "The direction in which all invaders will move at initially.": "A direção na qual todos os invasores se moverão inicialmente.",
     "Version": "Versão",
-    "Will the invaders be moving at start of frame.": "Os invasores estarão se movendo no início do frame?"
+    "Will the invaders be moving at start of frame.": "Os invasores estarão se movendo no início da cena?"
   }
 }

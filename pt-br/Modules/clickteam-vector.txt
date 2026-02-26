@@ -15,7 +15,7 @@
     "Initial Direction and Speed": "Direção e Velocidade Inicial",
     "Initial direction of the object in degrees.": "Direção inicial do objeto em graus.",
     "Initial speed of the object.": "Velocidade inicial do objeto.",
-    "Initially moving at start of frame.": "Inicialmente em movimento no início do frame.",
+    "Initially moving at start of frame.": "Inicialmente em movimento no início da cena.",
     "Move at Start": "Mover no Início",
     "Movement will automatically set the animation direction from current angle.": "O movimento irá definir automaticamente a direção da animação a partir do ângulo atual.",
     "Name of the extension used to interact with this movement.": "Nome da extensão usada para interagir com este movimento.",

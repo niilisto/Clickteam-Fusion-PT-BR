@@ -68,7 +68,7 @@
     "Enter line number": "Digite o número da linha",
     "General settings": "Configurações gerais",
     "Hide on start": "Esconder na inicialização",
-    "Hides the object at start of frame": "Esconde o objeto no início do frame",
+    "Hides the object at start of frame": "Esconde o objeto no início da cena",
     "Hides the text": "Esconde o texto",
     "Horizontal autoscroll": "Rolagem horizontal automática",
     "Horizontal scrollbar": "Barra de rolagem horizontal",

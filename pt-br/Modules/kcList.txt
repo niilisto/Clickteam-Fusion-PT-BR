@@ -66,7 +66,7 @@
     "Flag": "Bandeira",
     "Grouped style": "Estilo agrupado",
     "Hide on start": "Esconder na inicialização",
-    "Hides the object at start of frame": "Esconde o objeto no início do frame",
+    "Hides the object at start of frame": "Esconde o objeto no início da cena",
     "If selected, first item will be number one. Number zero if not.": "Se selecionado, o primeiro item será o número um. Número zero se não for selecionado.",
     "Index": "Índice",
     "Lets you create customizable lists of strings in your applications.": "Permite criar listas personalizáveis de textos em seus aplicativos.",

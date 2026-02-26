@@ -8,7 +8,7 @@
     "%o: Scores and names have been received": "%o: Pontuações e nomes foram recebidos",
     "All time": "Todo o tempo",
     "Check to automatically send Player 1 score at start": "Marcar para enviar automaticamente a pontuação do Jogador 1 no início",
-    "Check to retrive the names and scores of the leaderboard at start of frame.": "Marque para recuperar os nomes e pontuações da tabela de classificação no início do frame.",
+    "Check to retrive the names and scores of the leaderboard at start of frame.": "Marque para recuperar os nomes e pontuações da tabela de classificação no início da cena.",
     "Choose which hi-scores to display": "Escolha quais pontuações máximas exibir",
     "Display": "Exibir",
     "Display default leaderboard": "Exibir tabela de classificação padrão",

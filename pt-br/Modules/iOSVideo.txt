@@ -16,7 +16,7 @@
     "Begin seeking forward": "Começar a procurar para frente",
     "Check to display an Air Play button in the movie player": "Marque para exibir um botão Air Play no player de vídeo",
     "Check to display the movie in full screen": "Marque para exibir o filme em tela cheia",
-    "Check to make the movie play at start of frame": "Marque para fazer o filme tocar no início do frame",
+    "Check to make the movie play at start of frame": "Marque para fazer o filme tocar no início da cena",
     "Check to repeat the movie when it reaches the end": "Marque para repetir o filme quando ele chegar ao fim",
     "Choose how to scale the movie": "Escolha como dimensionar o filme",
     "Choose what kind of controls are available in the movie player": "Escolha o tipo de controles disponíveis no player de vídeo",
