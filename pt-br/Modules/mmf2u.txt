@@ -1,4 +1,4 @@
-{
+﻿{
 	"version": 1,
 	"lang": 1046,
 	"general": {
@@ -3694,7 +3694,7 @@
 		"Pick closest \"%o\" objects from \"%0\"": "Escolha os objetos \"%o\" mais próximos de \"%0\"",
 		"Pick closest \"%s\" objects from ...": "Escolha os objetos \"%s\" mais próximos de ...",
 		"Plus": "Mais",
-		"Reload": "Recharger",
+		"Reload": "Recarregar",
 		"Save": "Salvar",
 		"Select a frame to include in this frame when the application is built.": "Selecione uma cena para incluir quando o aplicativo for criado.",
 		"Select this option if you do not want your application to be automatically scaled by Windows.": "Selecione esta opção se não desejar que seu aplicativo seja dimensionado automaticamente pelo Windows.",
@@ -3792,7 +3792,7 @@
 		"Static": "Static"
 	},
 	"dialog_102": {
-		"&Browse": "Explorer",
+		"&Browse": "&Procurar",
 		"Cancel": "Cancelar",
 		"Internal Animation Frames": "Quadros de animação internos",
 		"OK": "OK",
@@ -4066,7 +4066,7 @@
 	"dialog_2009": {
 		"&Browse": "&Explorar",
 		"&Help": "&Ajuda",
-		"&Ignore": "Ignorer",
+		"&Ignore": "&Ignorar",
 		"&The file specified below does not exist. Please enter another filename.": "O arquivo especificado não existe. Insira um novo nome de arquivo.",
 		"Ignore &all similar messages": "Ignore mensagens semelhantes.",
 		"OK": "OK",
@@ -4137,7 +4137,7 @@
 		"To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager.": "Para abrir o emulador Android, selecione uma máquina virtual e clique no botão Iniciar. Você pode criar novas máquinas virtuais no Android SDK Manager."
 	},
 	"dialog_2064": {
-		"Browse": "Explorer",
+		"Browse": "Procurar",
 		"Cancel": "Cancelar",
 		"OK": "OK",
 		"Project name :": "Nome do projeto:",
@@ -4567,7 +4567,7 @@
 		"&Help": "&Ajuda",
 		"&Keep ratio": "Conserver ratio",
 		"&OK": "&OK",
-		"&Remove": "&Para remover",
+		"&Remove": "&Remover",
 		"&Resample images": "Reamostrar imagens",
 		"Clone Application": "Clonar aplicativo",
 		"List1": "List1",
@@ -4778,10 +4778,10 @@
 		"&Help": "&Ajuda",
 		"Cancel": "Cancelar",
 		"Choose button to test :": "Escolha o botão para testar:",
-		"Fire button &1": "Botão de disparo 1",
-		"Fire button &2": "Botão de disparo 2",
-		"Fire button &3": "Botão de disparo 3",
-		"Fire button &4": "Botão de disparo 4",
+		"Fire button &1": "Botão &1",
+		"Fire button &2": "Botão &2",
+		"Fire button &3": "Botão &3",
+		"Fire button &4": "Botão &4",
 		"OK": "OK"
 	},
 	"dialog_13227": {
@@ -4968,7 +4968,7 @@
 	},
 	"dialog_13558": {
 		"&Add": "&Adicionar",
-		"&Remove": "&Para remover",
+		"&Remove": "&Remover",
 		"Extensions to ignore": "Extensões a serem ignoradas",
 		"Filename of the extensions to ignore at start :": "Nome do arquivo de extensões a serem ignoradas na inicialização:"
 	},
@@ -5366,7 +5366,7 @@
 	"dialog_16136": {
 		"&Assign": "&Atribuir",
 		"&Category:": "&Categoria:",
-		"&Remove": "&Para remover",
+		"&Remove": "&Remover",
 		"Assigned to:": "Atribuído a:",
 		"C&ommands:": "Pedidos:",
 		"C&urrent Keys:": "&Chaves comuns:",
@@ -5455,7 +5455,7 @@
 		"&Reset": "&Reiniciar",
 		"Cancel": "Cancelar",
 		"Display &buttons in this order": "Mostrar &botões nesta ordem",
-		"Move &Down": "&Para descer",
+		"Move &Down": "Mover para &baixo",
 		"Move &Up": "&Para subir",
 		"Navigation Pane Options": "Opções do painel de navegação",
 		"OK": "OK"
@@ -5474,7 +5474,7 @@
 	"dialog_17076": {
 		"&Assign": "&Atribuir",
 		"&Categories:": "&Categorias:",
-		"&Remove": "&Para remover",
+		"&Remove": "&Remover",
 		"Assigned to:": "Atribuído a:",
 		"C&ommands:": "Pedidos:",
 		"C&urrent Keys:": "&Chaves comuns:",
@@ -5656,7 +5656,7 @@
 	},
 	"dialog_17525": {
 		"&Add": "&Adicionar",
-		"&Remove": "&Para remover",
+		"&Remove": "&Remover",
 		"File Options": "Opções de arquivo",
 		"Files": "Arquivos",
 		"List1": "List1"
@@ -5717,7 +5717,7 @@
 	"dialog_18622": {
 		"&Add": "&Adicionar",
 		"&Edit": "&Edição",
-		"&Remove": "&Para remover",
+		"&Remove": "&Remover",
 		"List5": "List5",
 		"Registry": "Registro"
 	},
