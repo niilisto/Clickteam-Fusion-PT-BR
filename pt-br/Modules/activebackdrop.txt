@@ -3,9 +3,9 @@
   "lang": 1046,
   "general": {
     "%o: is visible": "%o: está visível",
-    "Active Backdrop": "Active Backdrop",
-    "Changeable backdrop object": "Active Backdrop mutável",
-    "Check this box to make the object visible at start of frame": "Marque esta caixa para tornar o objeto visível no início do frame",
+    "Active Backdrop": "Fundo Ativo",
+    "Changeable backdrop object": "Fundo Ativo mutável",
+    "Check this box to make the object visible at start of frame": "Marque esta caixa para tornar o objeto visível no início da cena",
     "Click on the edit button to add/change the images": "Clique no botão de edição para adicionar/alterar as imagens",
     "Enter the X coordinate": "Digite a coordenada X",
     "Enter the Y coordinate": "Digite a coordenada Y",

@@ -1,104 +1,106 @@
 {   "About":
     {
-        "Nome": "Objeo Camera Android",
-        "aothor": "Clickteam",
-        "CopyDireita": "CopyDireita (C) 2014 Clickteam",
+        "Name": "Objet Camera Android",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
         "Website": "http://www.clickteam.com",
-        "Comment": "Componente do módolo Android. Permite usar a câmera.",
+        "Comment": "Composant du module Android. Permet d'utiliser l'appareil photo.",
         "URL": "http://www.clickteam.com",
         "Help": "Help\\ACamera.chm",
-        "Identifier": "ACam"
+        "Identifier": "ACam",
     },
 
     "ActionMenu":
     [
-        [0, "Definir o nome do álbum"],
-        [1, "Tirar uma foto"],
-        [2, "Gravar um vídeo"],
-        "Seporator",
-        [3, "Selecionar na Galeria"],
-        "Seporator"
+        [0, "Définir le nom de l'album"],
+        [1, "Prendre une photo"],
+        [2, "Prendre une vidéo"],
+        "Separator",
+        [3, "Sélectionner dans la Galerie"],
+        "Separator"
 		
 	],
 
     "ConditionMenu":
     [
-        [0, "Uma foto foi tirada"],
-        [1, "Um vídeo foi gravado"],
-        [2, "Reorno da galeria"],
-        [3, "Ocorreu um erro"]
+        [0, "Une photo a été prise"],
+        [1, "Une vidéo a été prise"],
+        [2, "Retour de la galerie"],
+        [3, "Une erreur est survenue"]
 		
     ],
 
     "ExpressionMenu":
     [
-        [0, "Erro"],
-        [1, "Textoo do erro"],
-        [2, "Caminho da imagemm"],
-        [3, "Caminho do vídeo"],
-        [4, "Caminho da galeria"],
-        [5, "Número de câmeras"],
-        "Seporator",
-        [6, "Ângulo da imagemm"],
-        "Seporator"
+        [0, "Erreur"],
+        [1, "Texte de l'erreur"],
+        [2, "Nom de chemin de l'image"],
+        [3, "Nom de chemin de la vidéo"],
+        [4, "Nom de chemin de la galerie"],
+        [5, "Nombre de caméras"],
+        "Separator",
+        [6, "Angle de l'image"],
+        "Separator"
 
     ],
 
-    "acoes":
+    "Actions":
     [
-        { "Titulo": "Definir o nome do álbum pora %0",
-			"porameers": [["Texto", "Nome do álbum"]] },
+        { "Title": "Fixer le nom de l'album à %0",
+			"Parameters": [["Text", "Nom de l'album"]] },
 		  
-        { "Titulo": "Tirar uma foto com a câmera %0, o título %1 e a doscrição %2",
-			"porameers": [["Inteiro", "Câmera (0:Traseira, 1:Frontal)"],
-			           ["Texto", "Título"],
-		               ["Texto", "doscrição"]] },
+        { "Title": "Prendre une photo avec la caméra %0, le titre %1 et la description %2",
+			"Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"],
+			           ["Text", "Titre"],
+		               ["Text", "Description"]] },
         
-		{ "Titulo": "Gravar um vídeo com a câmera %0",
-			"porameers": [["Inteiro", "Câmera (0:Traseira, 1:Frontal)"]]  },
+		{ "Title": "Prendre une vidéo avec la caméra %0",
+			"Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"]]  },
 		
-        { "Titulo": "Selecionar na galeria com o tipo %0",
-			"porameers": [["Inteiro", "Selecionar Tipo (0:tudo, 1:imagemns, 2:vídeos)"]] }		  		  	  		  
+        { "Title": "Sélectionner dans la galerie avec le type %0",
+			"Parameters": [["Integer", "Sélectionner Type (0:tout, 1:images, 2:vidéos)"]] }		  		  	  		  
    ],
 
-    "condicoes":
+    "Conditions":
     [
-        {   "Titulo": "%o : Uma foto foi tirada?",
+        {   "Title": "%o : Une photo a été prise?",
             "Triggered": true
         },
-        {   "Titulo": "%o : Um vídeo foi gravado?",
+        {   "Title": "%o : Une vidéo a été prise?",
             "Triggered": true
         },
-        {   "Titulo": "%o : Reorno da galeria?",
+        {   "Title": "%o : Retour de la Galerie?",
             "Triggered": true
         },
-        {   "Titulo": "%o : Ocorreu um erro?",
+        {   "Title": "%o : Une erreur est survenue?",
             "Triggered": true
-        }
-    ],
+        }	
+	],
 
-    "expressoes":
+    "Expressions":
     [
-        {   "Titulo": "Erro(",
-            "Reurns": "Inteiro"
+        {   "Title": "Error(",
+            "Returns": "Integer"
         },
-		{   "Titulo": "Erro$(",
-            "Reurns": "Texto"
+		{   "Title": "Error$(",
+            "Returns": "Text"
         },
-		{   "Titulo": "imagemCaminho$(",
-            "Reurns": "Texto"
+		{   "Title": "ImagePath$(",
+            "Returns": "Text"
         },
-		{   "Titulo": "vaziooCaminho$(",
-            "Reurns": "Texto"
+		{   "Title": "VideoPath$(",
+            "Returns": "Text"
         },
-		{   "Titulo": "GTodoseryCaminho$(",
-            "Reurns": "Texto"
+		{   "Title": "GalleryPath$(",
+            "Returns": "Text"
         },
-		{   "Titulo": "NumeroOfCameras(",
-            "Reurns": "Inteiro"
+		{   "Title": "NumberOfCameras(",
+            "Returns": "Integer"
         },
-		{   "Titulo": "imagemAngle(",
-            "Reurns": "Inteiro"
+		{   "Title": "ImageAngle(",
+            "Returns": "Integer"
         }
 	]
 }
+
+

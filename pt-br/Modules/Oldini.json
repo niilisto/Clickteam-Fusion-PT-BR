@@ -1,45 +1,45 @@
 {   "About":
     {
-        "Nome": "Objeo INI Antigo Android",
-        "aothor": "Clickteam",
-        "CopyDireita": "CopyDireita (C) 2014 Clickteam",
+        "Name": "Android Old INI object",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
         "Website": "http://www.clickteam.com",
-        "Comment": "Componente do modolo Android. Clone do antigo objeo INI utilisé por les anciennes aplicacaos, utilisable en cas de nécessité de conservation de compatibilité.",
+        "Comment": "Composant du module Android. Clone de l'ancien objet INI utilisé par les anciennes applications, utilisable en cas de nécessité de conservation de compatibilité.",
         "URL": "http://www.clickteam.com",
         "Help": "",
-        "Identifier": "AOin"
+        "Identifier": "AOin",
     },
 
     "ActionMenu":
     [
-        [6, "Definir arquivo atual"],
-        [0, "Definir grupo atual"],
-        [1, "Fixar élément courant"],
+        [6, "Fixer fichier courant"],
+        [0, "Fixer groupe courant"],
+        [1, "Fixer élément courant"],
 		
-        "Seporator",
+        "Separator",
            
-        [2, "Definir valor"],
-        [7, "Definir valor (élément)"],
-        [8, "Definir valor (groupe - élément)"],
+        [2, "Fixer valeur"],
+        [7, "Fixer valeur (élément)"],
+        [8, "Fixer valeur (groupe - élément)"],
  
-        "Seporator",
+        "Separator",
 		
-        [5, "Fixar chaîne"],
-        [9, "Fixar chaîne (élément)"],
-        [10, "Fixar chaîne (groupe - élément)"],
+        [5, "Fixer chaîne"],
+        [9, "Fixer chaîne (élément)"],
+        [10, "Fixer chaîne (groupe - élément)"],
   
-        "Seporator",
+        "Separator",
 
 		[13, "Détruire groupe"],
 		[11, "Détruire élément"],
 		[12, "Détruire élément (groupe)"],
 		
-        "Seporator",
+        "Separator",
 		
-        [3, "Salvar pora posicao de um objeo"],
-		[4, "Carregar pora posicao de um objeo"],
+        [3, "Enregistrer la position d'un objet"],
+		[4, "Charger la position d'un objet"],
 
-        "Seporator"
+        "Separator"
 		
 	],
 
@@ -50,105 +50,105 @@
 
     "ExpressionMenu":
     [
-        [0, "Récupérer valor"],
-        [2, "Récupérer valor (élément)"],
-        [3, "Récupérer valor (groupe - élément)"],
+        [0, "Récupérer valeur"],
+        [2, "Récupérer valeur (élément)"],
+        [3, "Récupérer valeur (groupe - élément)"],
  
-        "Seporator",
+        "Separator",
         [1, "Récupérer chaîne"],
         [4, "Récupérer chaîne (élément)"],
         [5, "Récupérer chaîne (groupe - élément)"],
   
-        "Seporator"
+        "Separator",
 
     ],
 
-    "acoes":
+    "Actions":
     [
-        { "Titulo": "Definir grupo atual à %0",
-          "porameers": [["Texto", "Entrer le nom do groupe"]] },
+        { "Title": "Fixer groupe courant à %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"]] },
 		  
-        { "Titulo": "Fixar élément courant à %0",
-          "porameers": [["Texto", "Entrer le nom doélément"]] },
+        { "Title": "Fixer élément courant à %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"]] },
 		  
-        { "Titulo": "Fixar la valor doélément courant à %0",
-          "porameers": [["Inteiro", "Entrer la valor"]] },
+        { "Title": "Fixer la valeur de l'élément courant à %0",
+          "Parameters": [["Integer", "Entrer la valeur"]] },
 		  
-        { "Titulo": "Enregistrer la posicao de %0",
-          "porameers": [["Object", "Obje"]] },
+        { "Title": "Enregistrer la position de %0",
+          "Parameters": [["Object", "Objet"]] },
 		  
-        { "Titulo": "Carregar la posicao de %0",
-          "porameers": [["Object", "Obje"]] },
+        { "Title": "Charger la position de %0",
+          "Parameters": [["Object", "Objet"]] },
           
-        { "Titulo": "Fixar la chaîne doélément courant à %0",
-          "porameers": [["Texto", "Entrer la chaîne"]] },
+        { "Title": "Fixer la chaîne de l'élément courant à %0",
+          "Parameters": [["Text", "Entrer la chaîne"]] },
           
-        { "Titulo": "Definir arquivo atual à %0",
-          "porameers": [["Texto", "arquivo INI"]] },
+        { "Title": "Fixer fichier courant à %0",
+          "Parameters": [["Text", "Fichier INI"]] },
           
-        { "Titulo": "Definir valor %1 em élément %0",
-          "porameers": [["Texto", "Entrer le nom doélément"],
-                        ["Inteiro", "Entrer la valor"]] },
+        { "Title": "Fixer valeur %1 dans élément %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"],
+                        ["Integer", "Entrer la valeur"]] },
 
-        { "Titulo": "Definir valor %2 em élément %1 e groupe %0",
-          "porameers": [["Texto", "Entrer le nom do groupe"],
-                         ["Texto", "Entrer le nom doélément"],
-			 ["Inteiro", "Entrer la valor"]] },
+        { "Title": "Fixer valeur %2 dans élément %1 et groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"],
+                         ["Text", "Entrer le nom de l'élément"],
+			 ["Integer", "Entrer la valeur"]] },
 
-        { "Titulo": "Fixar chaîne %1 doélément %0",
-          "porameers": [["Texto", "Entrer le nom doélément"],
-                        ["Texto", "Entrer la chaîne"]] },
+        { "Title": "Fixer chaîne %1 de l'élément %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"],
+                        ["Text", "Entrer la chaîne"]] },
 
-        { "Titulo": "Fixar chaîne %2 doélément %1 em le groupe %0",
-          "porameers": [["Texto", "Entrer le nom do groupe"],
-                         ["Texto", "Entrer le nom doélément"],
-			 ["Texto", "Entrer la chaîne"]] },
+        { "Title": "Fixer chaîne %2 de l'élément %1 dans le groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"],
+                         ["Text", "Entrer le nom de l'élément"],
+			 ["Text", "Entrer la chaîne"]] },
 
  
-        { "Titulo": "Détruire élément %0",
-          "porameers": [["Texto", "Entrer le nom doélément"]]
+        { "Title": "Détruire élément %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"]]
         },
 
-        { "Titulo": "Détruire élément %1 em groupe %0",
-          "porameers": [["Texto", "Entrer le nom do groupe"],
-			 ["Texto", "Entrer le nom doélément"]]
+        { "Title": "Détruire élément %1 dans groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"],
+			 ["Text", "Entrer le nom de l'élément"]]
         },
 
-        { "Titulo": "Détruire groupe %0",
-          "porameers": [["Texto", "Entrer le nom do groupe"]]
+        { "Title": "Détruire groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"]]
         }
    ],
 
-    "condicoes":
+    "Conditions":
     [
 
 	],
 
-    "expressoes":
+    "Expressions":
     [
-        {   "Titulo": "Valor of(",
-            "Reurns": "Inteiro"
+        {   "Title": "value of(",
+            "Returns": "Integer"
         },
-	{   "Titulo": "string of$(",
-            "Reurns": "Texto"
+	{   "Title": "string of$(",
+            "Returns": "Text"
         },
-        {   "Titulo": "ItemValor(",
-            "Reurns": "Inteiro",
-		"porameers": [["Texto", "Nom doélément"]]
+        {   "Title": "ItemValue(",
+            "Returns": "Integer",
+		"Parameters": [["Text", "Nom de l'élément"]]
 		},
-        {   "Titulo": "GroupItemValor(",
-            "Reurns": "Inteiro",
-		"porameers": [["Texto", "Nom de groupe"],
-        	         ["Texto", "Nom doélément"]]
+        {   "Title": "GroupItemValue(",
+            "Returns": "Integer",
+		"Parameters": [["Text", "Nom de groupe"],
+        	         ["Text", "Nom de l'élément"]]
 		},
-        {   "Titulo": "ItemString$(",
-            "Reurns": "Texto",
-	    "porameers": [["Texto", "Nom doélément"]]
+        {   "Title": "ItemString$(",
+            "Returns": "Text",
+	    "Parameters": [["Text", "Nom de l'élément"]]
         },
-        {   "Titulo": "GroupItemString$(",
-            "Reurns": "Texto",
-	    "porameers": [["Texto", "Nom de groupe"],
-                           ["Texto", "Nom doélément"]]
+        {   "Title": "GroupItemString$(",
+            "Returns": "Text",
+	    "Parameters": [["Text", "Nom de groupe"],
+                           ["Text", "Nom de l'élément"]]
         }
 	]
 }
