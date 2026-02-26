@@ -68,7 +68,7 @@
     "Options": "Opções",
     "Right-to-left reading": "Leitura da direita para a esquerda",
     "Scroll bar": "Barra de rolagem",
-    "Scroll to new line": "Embaralhar para nova linha",
+    "Scroll to new line": "Rolar para nova linha",
     "Select the type of the combo box": "Selecione o tipo da caixa de combinação",
     "Set line %0 data to %1": "Definir dados da linha %0 para %1",
     "Simple": "Simples",

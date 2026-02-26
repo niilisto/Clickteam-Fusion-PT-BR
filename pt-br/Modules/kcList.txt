@@ -82,7 +82,7 @@
     "Options": "Opções",
     "Picker view": "Visor de seleção",
     "Right-to-left reading": "Leitura da direita para a esquerda",
-    "Scroll to new line": "Embaralhar para nova linha",
+    "Scroll to new line": "Rolar para nova linha",
     "Set line %0 data to %1": "Definir dados da linha %0 para %1",
     "Show based on line data": "Mostrar com base nos dados da linha",
     "Show for all": "Mostrar para todos",
