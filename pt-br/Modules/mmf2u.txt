@@ -2298,7 +2298,7 @@
 		"Page Num": "Page Num",
 		"Page Up": "Page Haut",
 		"Paint": "Empate",
-		"Palette": "Palette",
+		"Palette": "Paleta",
 		"Pan: -100 (full left) to 100 (full right), 0=center": "Escala: -100 (esquerda) a 100 (direita), 0=centro",
 		"Paragraph": "Parágrafo",
 		"Paragraph %d": "Parágrafo %d",
@@ -4263,7 +4263,7 @@
 		"0 x 0": "0 x 0",
 		"Cancel": "Cancelar",
 		"OK": "OK",
-		"Palette": "Palette",
+		"Palette": "Paleta",
 		"Picture Editor": "Editor de imagens"
 	},
 	"dialog_4135": {
@@ -4325,7 +4325,7 @@
 		"Directions": "Instruções",
 		"List1": "List1",
 		"OK": "OK",
-		"Palette": "Palette",
+		"Palette": "Paleta",
 		"Play": "Rodar",
 		"Slider1": "Slider1"
 	},
@@ -4348,7 +4348,7 @@
 		"Cancel": "Cancelar",
 		"List1": "List1",
 		"OK": "OK",
-		"Palette": "Palette",
+		"Palette": "Paleta",
 		"Slider1": "Slider1"
 	},
 	"dialog_4165": {
