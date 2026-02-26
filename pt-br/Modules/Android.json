@@ -1,10 +1,10 @@
 {   "About":
 	{
-		"Name": "Objet Android",
+		"Name": "Objeto Android",
 		"Author": "Clickteam",
 		"Copyright": "Copyright (C) 2012-2023 Clickteam",
 		"Website": "http://www.clickteam.com",
-		"Comment": "Composant du module d'exportation Android. Fournit des fonctionnalités spéciales sur appareils Android.",
+		"Comment": "Componente do módulo de exportação Android. Fornece funcionalidades especiais em dispositivos Android.",
 		"URL": "http://www.clickteam.com",
 		"Help": "Android.chm",
 		"Identifier": "AndR",
@@ -15,188 +15,188 @@
 		["Log",
         
 			[0, "Log debug"],
-			[1, "Log erreur"],
+			[1, "Log de erro"],
 			[2, "Log info"],
 			[3, "Log verbose"],
-			[4, "Log warning"],
+			[4, "Log de aviso"],
 
 			"Separator",
         
-			[5, "Fixer tag log (défaut = titre application)"],
+			[5, "Definir tag de log (padrão = título da aplicação)"],
 		],
     
 		"Separator",
     
-		["Interdiction mise en veille",   
-			[6, "Démarrer"],
-			[7, "Arrêter"],
+		["Bloqueio de suspensão",   
+			[6, "Iniciar"],
+			[7, "Parar"],
 		],
     
-		[10, "Ouvrir URL"],
+		[10, "Abrir URL"],
 
-        ["Intention (sortante)",
+        ["Intent (saída)",
 
-            [15, "Ajouter une catégorie"],
-            [36, "Fixer le type"],
+            [15, "Adicionar uma categoria"],
+            [36, "Definir o tipo"],
 
-            ["Ajouter une donnée supplémentaire",
-                [16, "Chaîne"],
-                [17, "Booléen"],
-                [18, "Entier long"],
+            ["Adicionar dado extra",
+                [16, "String"],
+                [17, "Booleano"],
+                [18, "Inteiro longo"],
                 [40, "URI"]				
             ],
 
             "Separator",
 
-	    [11, "Démarrer une intention"],
-            [21, "Démarrer une intention avec un sélecteur"]
+	    [11, "Iniciar um intent"],
+            [21, "Iniciar um intent com seletor"]
         ],
 
-        ["Intention (entrante)",
+        ["Intent (entrada)",
 
-            [19, "Recevoir des notifications pour une action"],
-            [20, "Ne plus recevoir de notifications pour une action"],
+            [19, "Receber notificações para uma ação"],
+            [20, "Parar de receber notificações para uma ação"],
         ],
 
         "Separator",
 
-        ["Clavier",
-			[13, "Montrer le clavier"],
-			[14, "Cacher le clavier"],
+        ["Teclado",
+			[13, "Mostrar o teclado"],
+			[14, "Ocultar o teclado"],
 		],
 		
         "Separator",
 
-        [12, "Faire vibrer"],
+        [12, "Vibrar"],
 
         "Separator",
 
          ["Menu ...",
-			[22, "Activer une entrée du menu Options"],
-			[23, "Désactiver une entrée du menu Options"],
-			[29, "Ouvrir le menu par une action"],
+			[22, "Ativar uma entrada do menu Opções"],
+			[23, "Desativar uma entrada do menu Opções"],
+			[29, "Abrir o menu por uma ação"],
 			"Separator",
-			[43, "Désactiver le comportement par défaut du menu"],
-			[44, "Activer le comportement par défaut du menu"],
+			[43, "Desativar o comportamento padrão do menu"],
+			[44, "Ativar o comportamento padrão do menu"],
 		],
 		
         "Separator",
 
-        ["Barre Action / Titre",
-			[24, "Montrer la barre Action / Titre"],
-			[25, "Cacher la barre Action / Titre"],
+        ["Barra de Ação / Título",
+			[24, "Mostrar a barra de Ação / Título"],
+			[25, "Ocultar a barra de Ação / Título"],
 		],
 		
 		"Separator",
 
-        ["Barre de navigation",
-			[33, "Montrer la barre de navigation"],
-			[34, "Dimensionner la barre de navigation"],
-			[35, "Cacher la barre de navigation"],
+        ["Barra de navegação",
+			[33, "Mostrar a barra de navegação"],
+			[34, "Dimensionar a barra de navegação"],
+			[35, "Ocultar a barra de navegação"],
 		],
 		
         "Separator",
 
 		[
-		  "Barre d'état",
-		  [ 9, "Montrer barre d'état" ],
-		  [ 8, "Cacher barre d'état" ]
+		  "Barra de status",
+		  [ 9, "Mostrar barra de status" ],
+		  [ 8, "Ocultar barra de status" ]
 		],
 
 		"Separator",
 
-        ["Touches matérielles",
-			[30, "Désactiver les touches matérielles"],
-			[31, "Autoriser les touches matérielles"],
+        ["Botões físicos",
+			[30, "Desativar os botões físicos"],
+			[31, "Permitir os botões físicos"],
 		],
 		
         "Separator",
 
-        [32, "Envoyer l'application en fond"],		
+        [32, "Enviar a aplicação para segundo plano"],		
 
         "Separator",
 
-        ["Orientation de l'affichage",
-			[26, "Forcer le mode paysage"],
-			[27, "Forcer le mode portrait"],
+        ["Orientação da tela",
+			[26, "Forçar modo paisagem"],
+			[27, "Forçar modo retrato"],
 		],
 		
        "Separator",
 
-        [28, "Sauver une capture d'écran"],
-        [41, "Capturer une portion d'écran"],
+        [28, "Salvar uma captura de tela"],
+        [41, "Capturar uma porção da tela"],
 			
         "Separator",
 
-        ["Fin automatique",
-			[37, "Désactiver la fin automatique"],
-			[38, "Activer la fin automatique"],
+        ["Encerramento automático",
+			[37, "Desativar o encerramento automático"],
+			[38, "Ativar o encerramento automático"],
         ],
         "Separator",
 
-        [39, "Définir le jeu de caractères"],
+        [39, "Definir o conjunto de caracteres"],
 				
 		"Separator",
 
-		[42, "Vérifier les contrôleurs de jeu"],
+		[42, "Verificar os controles de jogo"],
 
         "Separator",
 
-		[ 45, "Changer mode immersif" ],
+		[ 45, "Alterar modo imersivo" ],
 
 		"Separator",
 
-		[ 46, "Obtenir permission Manager Storage" ],
-		[ 47, "Obtenir permission spécifique" ],
+		[ 46, "Obter permissão Manager Storage" ],
+		[ 47, "Obter permissão específica" ],
 		
 		"Separator"
 	],
 
 	"ConditionMenu":
 	[
-	   [0, "L'appareil a-t'il un GPU?"],
+	   [0, "O dispositivo tem GPU?"],
    
 	   "Separator",
    
-       [1, "Utilisateur en itinérance?"],
-       [3, "Connecté au réseau?"],
-       [14, "Bluetooth activé?"],
+       [1, "Usuário em roaming?"],
+       [3, "Conectado à rede?"],
+       [14, "Bluetooth ativado?"],
 
        "Separator",
             
-       [13, "L'appareil est-il rooté?"],
+       [13, "O dispositivo está com root?"],
 
-       ["L'appareil est-il branché?",
-           [4, "A toute source de courant"],
+       ["O dispositivo está conectado?",
+           [4, "A qualquer fonte de corrente"],
             
            "Separator",
             
-           [5, "A un adaptateur"],
-           [6, "A un port USB"],
+           [5, "A um adaptador"],
+           [6, "A uma porta USB"],
        ],
         
-       [7, "La batterie est-elle en train de se recharger?"],
-       [8, "La batterie est-elle en train de se décharger?"],
-       [9, "La batterie est-elle entièrement chargée?"],
+       [7, "A bateria está carregando?"],
+       [8, "A bateria está descarregando?"],
+       [9, "A bateria está totalmente carregada?"],
 
        "Separator",
 
-       [18, "Intention entrante"],
-       [19, "Toute intention entrante"],
+       [18, "Intent de entrada"],
+       [19, "Qualquer intent de entrada"],
 
        "Separator",
 
-       [10, "Le bouton Retour a été pressé"],
-       [12, "Le bouton Menu a été pressé"],
+       [10, "O botão Voltar foi pressionado"],
+       [12, "O botão Menu foi pressionado"],
 
        "Separator",
 
-       [15, "Le bouton Retour est-il appuyé?"],
-       [16, "Le bouton Menu est-il appuyé?"],
+       [15, "O botão Voltar está pressionado?"],
+       [16, "O botão Menu está pressionado?"],
 
        "Separator",
 
-       [17, "Lire l'état d'un bouton"],
+       [17, "Ler o estado de um botão"],
 
        "Separator",
 
@@ -209,27 +209,27 @@
 
 		"Separator",
 
-       [20, "Une entrée du menu options a été sélectionnée"],
-       [21, "N'importe quelle entrée du menu options a été sélectionnée"],
+       [20, "Uma entrada do menu de opções foi selecionada"],
+       [21, "Qualquer entrada do menu de opções foi selecionada"],
 	   
        "Separator",
 
-       [22, "Lorsque le clavier est montré"],
-       [23, "Lorsque le clavier est caché"],
-       [24, "Le clavier est-il visible?"],
+       [22, "Quando o teclado é mostrado"],
+       [23, "Quando o teclado é ocultado"],
+       [24, "O teclado está visível?"],
 	   
 		"Separator",
 
-		[ 25, "Permission accordée?" ],
+		[ 25, "Permissão concedida?" ],
 
-		[ 29, "Permission refusée?" ],
-		[ 30, "Permission bloquée?" ],
-		[ 31, "Permission Manager storage accordée?" ],    
+		[ 29, "Permissão negada?" ],
+		[ 30, "Permissão bloqueada?" ],
+		[ 31, "Permissão Manager storage concedida?" ],    
 
 		"Separator",
 
-		[ 32, "Dernière permission accordée" ],
-		[ 33, "Dernière permission refusée" ],    
+		[ 32, "Última permissão concedida" ],
+		[ 33, "Última permissão negada" ],    
 
 		"Separator"
 	   
@@ -237,83 +237,83 @@
 
 	"ExpressionMenu":
 	[
-	   [0, "Nom du GPU"],
-	   [1, "Marque du GPU"],
+	   [0, "Nome do GPU"],
+	   [1, "Fabricante do GPU"],
    
 	   "Separator",
    
-	   [2, "ID unique du téléphone"],
-	   [3, "Nom de l'opérateur réseau"],
-	   [11, "ID unique de l'appareil"],
+	   [2, "ID único do telefone"],
+	   [3, "Nome da operadora de rede"],
+	   [11, "ID único do dispositivo"],
 
        "Separator",
 
-	   [6, "Pourcentage de charge de la batterie"],
+	   [6, "Porcentagem de carga da bateria"],
         
 	   "Separator",
         
-	   [7, "Largeur écran"],
-	   [8, "Hauteur écran"],
-	   [17, "Type de rendu"],
-	   [16, "Hauteur publicité"],
+	   [7, "Largura da tela"],
+	   [8, "Altura da tela"],
+	   [17, "Tipo de renderização"],
+	   [16, "Altura do anúncio"],
 
 	   "Separator",
         
-	   [9, "Répertoire de stockage de données"],
-	   [10, "Répertoire temporaire"],
-	   [13, "Répertoire de stockage externe"],
-	   [28, "Répertoire de stockage public"],
-		[ 31, "Répertoire de stockage secondaire" ],
-		[ 33, "Répertoire Public Scoped storage" ],
+	   [9, "Diretório de armazenamento de dados"],
+	   [10, "Diretório temporário"],
+	   [13, "Diretório de armazenamento externo"],
+	   [28, "Diretório de armazenamento público"],
+		[ 31, "Diretório de armazenamento secundário" ],
+		[ 33, "Diretório de Scoped Storage Público" ],
 
 	   "Separator",
 
 	   ["Runtime",
-            [15, "Version du runtime"],
+            [15, "Versão do runtime"],
 
             "Separator",
 
-			[5, "Titre de l'application"],
-			[12, "Nom de package de l'application"],
-            [14, "Version de l'application"]
+			[5, "Título da aplicação"],
+			[12, "Nome do pacote da aplicação"],
+            [14, "Versão da aplicação"]
 	   ],
 
-       ["Intention (entrante)",
-            [18, "Action"],
-            [19, "Donnée"],
+       ["Intent (entrada)",
+            [18, "Ação"],
+            [19, "Dado"],
             "Separator",
-            ["Donnée supplémentaire (par clef)",
-                [20, "Chaîne"],
-                [21, "Booléen"],
-                [22, "Entier long"]
+            ["Dado extra (por chave)",
+                [20, "String"],
+                [21, "Booleano"],
+                [22, "Inteiro longo"]
             ]
        ],
 
        "Separator",
 
-       [23, "Entrée sélectionnée du menu options"],
+       [23, "Entrada selecionada do menu de opções"],
 
-       ["Infos appareil",
-            [24, "Numéro API Android"],
+       ["Informações do dispositivo",
+            [24, "Número da API Android"],
 
 			  "Separator",
 
-			  [ 34, "Frame Rate de l'affichage" ],
+			  [ 34, "Taxa de quadros da tela" ],
 
             "Separator",
 
-            [25, "Fabricant"],
-            [26, "Modèle"],
-            [27, "Produit"],
-	    [29, "Numéro de série"],
-	    [30, "Compte Utilisateur Google"]
+            [25, "Fabricante"],
+            [26, "Modelo"],
+            [27, "Produto"],
+	    [29, "Número de série"],
+	    [30, "Conta de Usuário Google"]
        ]	   ,
 
 		"Separator",
 
 		[
 		  "Game Controller",
-		  [ 32, "Dernier bouton pressé" ]
+		  [ 32, "Último botão pressionado" ]
 
 		],
 		"Separator"
@@ -322,136 +322,136 @@
 	"Actions":
 	[
 		{ "Title": "Log debug : %0",
-		  "Parameters": [["Text", "Texte log"]] },
+		  "Parameters": [["Text", "Texto de log"]] },
 		{ "Title": "Log error : %0",
-		  "Parameters": [["Text", "Texte log"]] },
+		  "Parameters": [["Text", "Texto de log"]] },
 		{ "Title": "Log info : %0",
-		  "Parameters": [["Text", "Texte log"]] },
+		  "Parameters": [["Text", "Texto de log"]] },
 		{ "Title": "Log verbose : %0",
-		  "Parameters": [["Text", "Texte log"]] },
+		  "Parameters": [["Text", "Texto de log"]] },
 		{ "Title": "Log warning : %0",
-		  "Parameters": [["Text", "Texte log"]] },
+		  "Parameters": [["Text", "Texto de log"]] },
 
-		{ "Title": "Fixer tag log à %0",
-		  "Parameters": [["Text", "Tag log (défault = titre application)"]] },
+		{ "Title": "Definir tag de log como %0",
+		  "Parameters": [["Text", "Tag de log (padrão = título da aplicação)"]] },
       
-		{ "Title": "Démarrer l'interdiction de mise en veille" },
-		{ "Title": "Stopper l'interdiction de mise en veille" },
+		{ "Title": "Iniciar o bloqueio de suspensão" },
+		{ "Title": "Parar o bloqueio de suspensão" },
     
-		{ "Title": "Cacher la barre d'état" },
-		{ "Title": "Montrer la barre d'état" },
+		{ "Title": "Ocultar a barra de status" },
+		{ "Title": "Mostrar a barra de status" },
     
-		{ "Title": "Ouvrir URL %0",
-		  "Parameters": [["Text", "URL à ouvrir"]] },
+		{ "Title": "Abrir URL %0",
+		  "Parameters": [["Text", "URL a abrir"]] },
       
-		{ "Title": "Démarrer intention %0 avec URI %1",
-		  "Parameters": [["Text", "Intention à démarrer (ex. \"android.intent.action.DIAL\")"],
+		{ "Title": "Iniciar intent %0 com URI %1",
+		  "Parameters": [["Text", "Intent a iniciar (ex. \"android.intent.action.DIAL\")"],
 						["Text", "URI (ex. \"tel:123\")"]] },
 
-        {"Title": "Vibrer pendant %0 millisecondes",
-            "Parameters": [["Integer", "Durée (millisecondes)"]]
+        {"Title": "Vibrar por %0 milissegundos",
+            "Parameters": [["Integer", "Duração (milissegundos)"]]
         },
 
-        { "Title": "Montrer le clavier" },
-        { "Title": "Cacher le clavier" },
+        { "Title": "Mostrar o teclado" },
+        { "Title": "Ocultar o teclado" },
 
-        { "Title": "Intention (sortante): Ajouter catégorie %0",
-          "Parameters": [["Text", "Nom catégorie"]]
+        { "Title": "Intent (saída): Adicionar categoria %0",
+          "Parameters": [["Text", "Nome da categoria"]]
         },
 
-        { "Title": "Intention (sortante): Ajouter chaîne supplémentaire %0 = %1",
-          "Parameters": [["Text", "Nom"], ["Text", "Valeur"]]
+        { "Title": "Intent (saída): Adicionar string extra %0 = %1",
+          "Parameters": [["Text", "Nome"], ["Text", "Valor"]]
         },
 
-        { "Title": "Intention (sortante): Ajouter booléen supplémentaire %0 = %1",
-          "Parameters": [["Text", "Nom"], ["Integer", "Valeur (1 = vrai, 0 = faux)"]]
+        { "Title": "Intent (saída): Adicionar booleano extra %0 = %1",
+          "Parameters": [["Text", "Nome"], ["Integer", "Valor (1 = verdadeiro, 0 = falso)"]]
         },
 
-        { "Title": "Intention (sortante): Ajouter long supplémentaire %0 = %1",
-          "Parameters": [["Text", "Nom"], ["Integer", "Valeur"]]
+        { "Title": "Intent (saída): Adicionar inteiro longo extra %0 = %1",
+          "Parameters": [["Text", "Nome"], ["Integer", "Valor"]]
         },
 
-        { "Title": "Intention (entrante): Recevoir notifications pour action %0",
-          "Parameters": [["Text", "Action"]]
+        { "Title": "Intent (entrada): Receber notificações para ação %0",
+          "Parameters": [["Text", "Ação"]]
         },
 
-        { "Title": "Intention (entrante): Ne plus recevoir notifications pour action %0",
-          "Parameters": [["Text", "Action"]]
+        { "Title": "Intent (entrada): Parar de receber notificações para ação %0",
+          "Parameters": [["Text", "Ação"]]
         },
 
-        { "Title": "Intention (sortante): Démarrer intention %0 avec URI %1 (sélecteur, titre: %2)",
-          "Parameters": [["Text", "Intention à démarrer (ex. \"android.intent.action.DIAL\")"],
+        { "Title": "Intent (saída): Iniciar intent %0 com URI %1 (seletor, título: %2)",
+          "Parameters": [["Text", "Intent a iniciar (ex. \"android.intent.action.DIAL\")"],
                         ["Text", "URI (ex. \"tel:123\")"],
-                        ["Text", "Titre sélecteur"]] },
+                        ["Text", "Título do seletor"]] },
 
-        { "Title": "Activer entrée %0 du menu Options",
-          "Parameters": [["Text", "ID entrée menu"]]
+        { "Title": "Ativar entrada %0 do menu Opções",
+          "Parameters": [["Text", "ID de entrada do menu"]]
         },
 
-        { "Title": "Désactiver entrée %0 du menu Options",
-          "Parameters": [["Text", "ID entrée menu"]]
+        { "Title": "Desativar entrada %0 do menu Opções",
+          "Parameters": [["Text", "ID de entrada do menu"]]
         },
 
-        { "Title": "Montrer la barre Action" },
-        { "Title": "Cacher la barre Action" },
+        { "Title": "Mostrar a barra de Ação" },
+        { "Title": "Ocultar a barra de Ação" },
 		
-        { "Title": "Forcer le mode paysage" },
-        { "Title": "Forcer le mode portrait" },
+        { "Title": "Forçar modo paisagem" },
+        { "Title": "Forçar modo retrato" },
 		
-		{ "Title": "Sauver la capture d'écran dans le fichier %0",
-          "Parameters": [["Text", "Nom de fichier de la capture"]] },
+		{ "Title": "Salvar captura de tela no arquivo %0",
+          "Parameters": [["Text", "Nome do arquivo de captura"]] },
 		  
-        { "Title": "Ouvrir le menu par une action" },
+        { "Title": "Abrir o menu por uma ação" },
 		
-        { "Title": "Désactiver les touches matérielles" },
+        { "Title": "Desativar os botões físicos" },
         { "Title": "Activer les touches matérielles" },
-        { "Title": "Envoyer l'application en fond" },
+        { "Title": "Enviar a aplicação para segundo plano" },
 		
-        { "Title": "Montrer la barre de navigation" },
-        { "Title": "Dimensionner la barre de navigation" },
-        { "Title": "Cacher la barre de navigation" },
-        { "Title": "Fixer le type de l'intention à %0",
-          "Parameters": [["Text", "Type de l'intention"]]},		
-        { "Title": "Désactiver la fin automatique" },
-        { "Title": "Activer la fin automatique" },
-        { "Title": "Fixer le jeu de caractères à %0",
-          "Parameters": [["Integer", "Jeu de caractères (0:Unicode-défaut, 1:ANSI)"]]},
-        { "Title": "Intention (sortante): Ajouter URI supplémentaire %0 = %1",
-          "Parameters": [["Text", "Nom"], ["Text", "Valeur"]]
+        { "Title": "Mostrar a barra de navegação" },
+        { "Title": "Dimensionar a barra de navegação" },
+        { "Title": "Ocultar a barra de navegação" },
+        { "Title": "Definir o tipo de intent como %0",
+          "Parameters": [["Text", "Tipo do intent"]]},		
+        { "Title": "Desativar o encerramento automático" },
+        { "Title": "Ativar o encerramento automático" },
+        { "Title": "Definir o conjunto de caracteres como %0",
+          "Parameters": [["Integer", "Conjunto de caracteres (0:Unicode-padrão, 1:ANSI)"]]},
+        { "Title": "Intent (saída): Adicionar URI extra %0 = %1",
+          "Parameters": [["Text", "Nome"], ["Text", "Valor"]]
         },
-	{ "Title": "Capturer portion d'écran dans fichier %0 en x:%1, y:%2, largeur:%3, hauteur:%4",
-          "Parameters": [["Text", "Nom de fichier de la capture"],
-			                   ["Integer", "Position en X"],
-			                   ["Integer", "Position en Y"],
-			                   ["Integer", "Largeur"],
-			                   ["Integer", "Hauteur"]]},
+	{ "Title": "Capturar porção da tela no arquivo %0 em x:%1, y:%2, largura:%3, altura:%4",
+          "Parameters": [["Text", "Nome do arquivo de captura"],
+			                   ["Integer", "Posição em X"],
+			                   ["Integer", "Posição em Y"],
+			                   ["Integer", "Largura"],
+			                   ["Integer", "Altura"]]},
 		{
-		  "Title": "Vérifier les contrôleurs de jeu"
+		  "Title": "Verificar os controles de jogo"
 		},
 
 		{
-		  "Title": "Désactiver le comportement par défaut du menu"
+		  "Title": "Desativar o comportamento padrão do menu"
 		},
 
 		{
-		  "Title": "Activer le comportement par défaut du menu"
+		  "Title": "Ativar o comportamento padrão do menu"
 		},
 
 		{
-		  "Title": "Mettre mode immersif à %0",
+		  "Title": "Definir modo imersivo como %0",
 		  "Parameters": [
-			[ "Integer", "Mode immersif (0:Désactivé, 1:Activé)" ]
+			[ "Integer", "Modo imersivo (0:Desativado, 1:Ativado)" ]
 		  ]
 		},
 
 		{
-		  "Title": "Obtenir permission manager storage"
+		  "Title": "Obter permissão manager storage"
 		},
 
 		{
-		  "Title": "Demander permission(s) %0 avec ID %1",
+		  "Title": "Solicitar permissão(ões) %0 com ID %1",
 		  "Parameters": [
-			[ "Text", "Chaîne permission(s) (séparées par |)" ],
+			[ "Text", "String de permissão(ões) (separadas por |)" ],
 			  [ "Integer", "ID" ]
 		  ]
 		}
@@ -460,133 +460,133 @@
 
 	"Conditions":
 	[
-		{   "Title": "%o : L'appareil a un GPU",
+		{   "Title": "%o : O dispositivo tem GPU",
 			"Triggered": false,
 		},
-		{   "Title": "%o : Utilisateur en itinérance",
+		{   "Title": "%o : Usuário em roaming",
 			"Triggered": false,
 		},
-		{   "Title": "%o : Exception déclenchée",
+		{   "Title": "%o : Exceção disparada",
 			"Triggered": true,
 		},
-		{   "Title": "%o : Connecté au réseau?",
+		{   "Title": "%o : Conectado à rede?",
 			"Triggered": false,
 		},
-		{   "Title": "%o : Connecté à une source de courant",
+		{   "Title": "%o : Conectado a uma fonte de corrente",
 			"Triggered": false,
 		},
-		{   "Title": "%o : Connecté à un adaptateur",
+		{   "Title": "%o : Conectado a um adaptador",
 			"Triggered": false,
 		},
-		{   "Title": "%o : Connecté à un port USB",
+		{   "Title": "%o : Conectado a uma porta USB",
 			"Triggered": false,
 		},
-		{   "Title": "%o : La batterie est en charge",
+		{   "Title": "%o : A bateria está carregando",
 			"Triggered": false,
 		},
-		{   "Title": "%o : La batterie se décharge",
+		{   "Title": "%o : A bateria está descarregando",
 			"Triggered": false,
 		},
-		{   "Title": "%o : La batterie est pleine",
+		{   "Title": "%o : A bateria está cheia",
 			"Triggered": false,
 		},
-		{   "Title": "%o : Le bouton Retour est appuyé",
+		{   "Title": "%o : O botão Voltar foi pressionado",
 			"Triggered": true,
 		},
-		{   "Title": "%o : Le bouton Accueil est appuyé",
+		{   "Title": "%o : O botão Início foi pressionado",
 			"Triggered": true,
 		},
-		{   "Title": "%o : Le bouton Menu est appuyé",
+		{   "Title": "%o : O botão Menu foi pressionado",
 			"Triggered": true,
 		},
-        {   "Title": "%o : L'appareil est rooté?",
+        {   "Title": "%o : O dispositivo está com root?",
             "Triggered": false,
         },
-        {   "Title": "%o : Bluetooth activé?",
+        {   "Title": "%o : Bluetooth ativado?",
             "Triggered": false,
         },
-		{   "Title": "%o : Le bouton Retour est appuyé?",
+		{   "Title": "%o : O botão Voltar está pressionado?",
             "Triggered": false,
         },
-		{   "Title": "%o : Le bouton Menu est appuyé?",
+		{   "Title": "%o : O botão Menu está pressionado?",
             "Triggered": false,
         },
-        {   "Title": "%o : Le bouton %0 est appuyé?",
+        {   "Title": "%o : O botão %0 está pressionado?",
             "Triggered": false,
-            "Parameters": [["Integer", "Code touche"]]
+            "Parameters": [["Integer", "Código da tecla"]]
         },
-        {   "Title": "%o : Intention entrante pour action %0",
+        {   "Title": "%o : Intent de entrada para ação %0",
             "Triggered": true,
-            "Parameters": [["Text", "Action"]]
+            "Parameters": [["Text", "Ação"]]
         },
-        {   "Title": "%o : Toute intention entrante",
+        {   "Title": "%o : Qualquer intent de entrada",
             "Triggered": true
         },
-        {   "Title": "%o : L'entrée %0 du menu options a été sélectionnée",
+        {   "Title": "%o : A entrada %0 do menu de opções foi selecionada",
             "Triggered": true,
-            "Parameters": [["Text", "ID entrée menu"]]
+            "Parameters": [["Text", "ID de entrada do menu"]]
         },
-        {   "Title": "%o : N'importe quelle entrée du menu options a été sélectionnée",
+        {   "Title": "%o : Qualquer entrada do menu de opções foi selecionada",
             "Triggered": true
         },
-        {   "Title": "%o : Le clavier a été montré",
+        {   "Title": "%o : O teclado foi mostrado",
             "Triggered": true
         },
-        {   "Title": "%o : Le clavier a été caché",
+        {   "Title": "%o : O teclado foi ocultado",
             "Triggered": true
         },
-        {   "Title": "%o : Le clavier est-il visible?",
+        {   "Title": "%o : O teclado está visível?",
             "Triggered": false
         },
 		{
-		  "Title": "La permission %0 est accordée?",
+		  "Title": "A permissão %0 está concedida?",
 		  "Triggered": false,
 		  "Parameters": [
-			[ "Text", "Permission (ex: android.permission.INTERNET)" ]
+			[ "Text", "Permissão (ex: android.permission.INTERNET)" ]
 		  ]
 		},
 		{
-		  "Title": "%o : Un contrôleur avec gamepad est connecté?",
+		  "Title": "%o : Um controle com gamepad está conectado?",
 		  "Triggered": false
 		},
 		{
-		  "Title": "%o : Un contrôleur avec joystick est connecté?",
+		  "Title": "%o : Um controle com joystick está conectado?",
 		  "Triggered": false
 		},
 		{
-		  "Title": "%o : Un contrôleur avec DPAD est connecté?",
+		  "Title": "%o : Um controle com DPAD está conectado?",
 		  "Triggered": false
 		},
 		{
-		  "Title": "Is Permission %0 denied?",
+		  "Title": "A permissão %0 está negada?",
 		  "Triggered": false,
 		  "Parameters": [
-			[ "Text", "Permission (e.g.: android.permission.INTERNET)" ]
+			[ "Text", "Permissão (ex: android.permission.INTERNET)" ]
 		  ]
 		},
 		{
-		  "Title": "Is Permission %0 blocked?",
+		  "Title": "A permissão %0 está bloqueada?",
 		  "Triggered": false,
 		  "Parameters": [
-			[ "Text", "Permission (e.g.: android.permission.INTERNET)" ]
+			[ "Text", "Permissão (ex: android.permission.INTERNET)" ]
 		  ]
 		},
 		{
-		  "Title": "%o : Is Manager storage permission granted?",
+		  "Title": "%o : Permissão Manager storage concedida?",
 		  "Triggered": false
 		},
 		{
-		  "Title": "%o : On last permission with ID %0 granted",
+		  "Title": "%o : Última permissão com ID %0 concedida",
 		  "Triggered": true,
 		  "Parameters": [
-			 [ "Integer", "Identification ID" ]
+			 [ "Integer", "ID de identificação" ]
 		  ]
 		},
 		{
-		  "Title": "%o : On last permission with ID %0 denied",
+		  "Title": "%o : Última permissão com ID %0 negada",
 		  "Triggered": true,
 		  "Parameters": [
-			 [ "Integer", "Identification ID" ]
+			 [ "Integer", "ID de identificação" ]
 		  ]
 		}
 	],
@@ -679,7 +679,7 @@
         },
         {   "Title": "PublicStorageDirectory$(",
             "Returns": "Text",
-            "Parameters": [["Text", "Nom du type (Images, Films, Documents, DCIM, Téléchargements, Musique, etc.)"]]
+            "Parameters": [["Text", "Nome do tipo (Imagens, Filmes, Documentos, DCIM, Downloads, Música, etc.)"]]
 		},
         {   "Title": "DeviceSerialNumber$(",
             "Returns": "Text"
@@ -699,7 +699,7 @@
 		  "Title": "PublicScopedStorageDirectory$(",
 		  "Returns": "Text",
 		  "Parameters": [
-			[ "Text", "Type Name (Pictures, Movies, Documents, DCIM, Downloads, Music, etc.)" ]
+			[ "Text", "Nome do tipo (Imagens, Filmes, Documentos, DCIM, Downloads, Música, etc.)" ]
 		  ]
 		},    {
 		  "Title": "DisplayFrameRate(",

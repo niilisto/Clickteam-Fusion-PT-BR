@@ -1,10 +1,10 @@
 {   "About":
     {
-        "Name": "Objet Camera Android",
+        "Name": "Objeto Câmera Android",
         "Author": "Clickteam",
         "Copyright": "Copyright (C) 2014 Clickteam",
         "Website": "http://www.clickteam.com",
-        "Comment": "Composant du module Android. Permet d'utiliser l'appareil photo.",
+        "Comment": "Componente do módulo Android. Permite usar a câmera.",
         "URL": "http://www.clickteam.com",
         "Help": "Help\\ACamera.chm",
         "Identifier": "ACam",
@@ -12,67 +12,67 @@
 
     "ActionMenu":
     [
-        [0, "Définir le nom de l'album"],
-        [1, "Prendre une photo"],
-        [2, "Prendre une vidéo"],
+        [0, "Definir o nome do álbum"],
+        [1, "Tirar uma foto"],
+        [2, "Gravar um vídeo"],
         "Separator",
-        [3, "Sélectionner dans la Galerie"],
+        [3, "Selecionar da Galeria"],
         "Separator"
 		
 	],
 
     "ConditionMenu":
     [
-        [0, "Une photo a été prise"],
-        [1, "Une vidéo a été prise"],
-        [2, "Retour de la galerie"],
-        [3, "Une erreur est survenue"]
+        [0, "Uma foto foi tirada"],
+        [1, "Um vídeo foi gravado"],
+        [2, "Retorno da galeria"],
+        [3, "Ocorreu um erro"]
 		
     ],
 
     "ExpressionMenu":
     [
-        [0, "Erreur"],
-        [1, "Texte de l'erreur"],
-        [2, "Nom de chemin de l'image"],
-        [3, "Nom de chemin de la vidéo"],
-        [4, "Nom de chemin de la galerie"],
-        [5, "Nombre de caméras"],
+        [0, "Erro"],
+        [1, "Texto do erro"],
+        [2, "Caminho da imagem"],
+        [3, "Caminho do vídeo"],
+        [4, "Caminho da galeria"],
+        [5, "Número de câmeras"],
         "Separator",
-        [6, "Angle de l'image"],
+        [6, "Ângulo da imagem"],
         "Separator"
 
     ],
 
     "Actions":
     [
-        { "Title": "Fixer le nom de l'album à %0",
-			"Parameters": [["Text", "Nom de l'album"]] },
+        { "Title": "Definir o nome do álbum como %0",
+			"Parameters": [["Text", "Nome do álbum"]] },
 		  
-        { "Title": "Prendre une photo avec la caméra %0, le titre %1 et la description %2",
-			"Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"],
-			           ["Text", "Titre"],
-		               ["Text", "Description"]] },
+        { "Title": "Tirar uma foto com a câmera %0, título %1 e descrição %2",
+			"Parameters": [["Integer", "Câmera (0:Traseira, 1:Frontal)"],
+			           ["Text", "Título"],
+		               ["Text", "Descrição"]] },
         
-		{ "Title": "Prendre une vidéo avec la caméra %0",
-			"Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"]]  },
+		{ "Title": "Gravar um vídeo com a câmera %0",
+			"Parameters": [["Integer", "Câmera (0:Traseira, 1:Frontal)"]]  },
 		
-        { "Title": "Sélectionner dans la galerie avec le type %0",
-			"Parameters": [["Integer", "Sélectionner Type (0:tout, 1:images, 2:vidéos)"]] }		  		  	  		  
+        { "Title": "Selecionar da galeria com o tipo %0",
+			"Parameters": [["Integer", "Tipo de seleção (0:tudo, 1:imagens, 2:vídeos)"]] }		  		  	  		  
    ],
 
     "Conditions":
     [
-        {   "Title": "%o : Une photo a été prise?",
+        {   "Title": "%o : Uma foto foi tirada?",
             "Triggered": true
         },
-        {   "Title": "%o : Une vidéo a été prise?",
+        {   "Title": "%o : Um vídeo foi gravado?",
             "Triggered": true
         },
-        {   "Title": "%o : Retour de la Galerie?",
+        {   "Title": "%o : Retorno da Galeria?",
             "Triggered": true
         },
-        {   "Title": "%o : Une erreur est survenue?",
+        {   "Title": "%o : Ocorreu um erro?",
             "Triggered": true
         }	
 	],

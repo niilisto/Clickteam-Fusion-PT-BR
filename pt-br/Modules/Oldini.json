@@ -4,7 +4,7 @@
         "Author": "Clickteam",
         "Copyright": "Copyright (C) 2014 Clickteam",
         "Website": "http://www.clickteam.com",
-        "Comment": "Composant du module Android. Clone de l'ancien objet INI utilisé par les anciennes applications, utilisable en cas de nécessité de conservation de compatibilité.",
+        "Comment": "Componente do módulo Android. Clone do antigo objeto INI usado por aplicações antigas, utilizável quando há necessidade de manter compatibilidade.",
         "URL": "http://www.clickteam.com",
         "Help": "",
         "Identifier": "AOin",
@@ -12,32 +12,32 @@
 
     "ActionMenu":
     [
-        [6, "Fixer fichier courant"],
-        [0, "Fixer groupe courant"],
-        [1, "Fixer élément courant"],
+        [6, "Definir arquivo atual"],
+        [0, "Definir grupo atual"],
+        [1, "Definir item atual"],
 		
         "Separator",
            
-        [2, "Fixer valeur"],
-        [7, "Fixer valeur (élément)"],
-        [8, "Fixer valeur (groupe - élément)"],
+        [2, "Definir valor"],
+        [7, "Definir valor (item)"],
+        [8, "Definir valor (grupo - item)"],
  
         "Separator",
 		
-        [5, "Fixer chaîne"],
-        [9, "Fixer chaîne (élément)"],
-        [10, "Fixer chaîne (groupe - élément)"],
+        [5, "Definir string"],
+        [9, "Definir string (item)"],
+        [10, "Definir string (grupo - item)"],
   
         "Separator",
 
-		[13, "Détruire groupe"],
-		[11, "Détruire élément"],
-		[12, "Détruire élément (groupe)"],
+		[13, "Excluir grupo"],
+		[11, "Excluir item"],
+		[12, "Excluir item (grupo)"],
 		
         "Separator",
 		
-        [3, "Enregistrer la position d'un objet"],
-		[4, "Charger la position d'un objet"],
+        [3, "Salvar posição de um objeto"],
+		[4, "Carregar posição de um objeto"],
 
         "Separator"
 		
@@ -50,14 +50,14 @@
 
     "ExpressionMenu":
     [
-        [0, "Récupérer valeur"],
-        [2, "Récupérer valeur (élément)"],
-        [3, "Récupérer valeur (groupe - élément)"],
+        [0, "Obter valor"],
+        [2, "Obter valor (item)"],
+        [3, "Obter valor (grupo - item)"],
  
         "Separator",
-        [1, "Récupérer chaîne"],
-        [4, "Récupérer chaîne (élément)"],
-        [5, "Récupérer chaîne (groupe - élément)"],
+        [1, "Obter string"],
+        [4, "Obter string (item)"],
+        [5, "Obter string (grupo - item)"],
   
         "Separator",
 
@@ -65,57 +65,57 @@
 
     "Actions":
     [
-        { "Title": "Fixer groupe courant à %0",
-          "Parameters": [["Text", "Entrer le nom du groupe"]] },
+        { "Title": "Definir grupo atual como %0",
+          "Parameters": [["Text", "Digite o nome do grupo"]] },
 		  
-        { "Title": "Fixer élément courant à %0",
-          "Parameters": [["Text", "Entrer le nom de l'élément"]] },
+        { "Title": "Definir item atual como %0",
+          "Parameters": [["Text", "Digite o nome do item"]] },
 		  
-        { "Title": "Fixer la valeur de l'élément courant à %0",
-          "Parameters": [["Integer", "Entrer la valeur"]] },
+        { "Title": "Definir o valor do item atual como %0",
+          "Parameters": [["Integer", "Digite o valor"]] },
 		  
-        { "Title": "Enregistrer la position de %0",
-          "Parameters": [["Object", "Objet"]] },
+        { "Title": "Salvar posição de %0",
+          "Parameters": [["Object", "Objeto"]] },
 		  
-        { "Title": "Charger la position de %0",
-          "Parameters": [["Object", "Objet"]] },
+        { "Title": "Carregar posição de %0",
+          "Parameters": [["Object", "Objeto"]] },
           
-        { "Title": "Fixer la chaîne de l'élément courant à %0",
-          "Parameters": [["Text", "Entrer la chaîne"]] },
+        { "Title": "Definir a string do item atual como %0",
+          "Parameters": [["Text", "Digite a string"]] },
           
-        { "Title": "Fixer fichier courant à %0",
-          "Parameters": [["Text", "Fichier INI"]] },
+        { "Title": "Definir arquivo atual como %0",
+          "Parameters": [["Text", "Arquivo INI"]] },
           
-        { "Title": "Fixer valeur %1 dans élément %0",
-          "Parameters": [["Text", "Entrer le nom de l'élément"],
-                        ["Integer", "Entrer la valeur"]] },
+        { "Title": "Definir valor %1 no item %0",
+          "Parameters": [["Text", "Digite o nome do item"],
+                        ["Integer", "Digite o valor"]] },
 
-        { "Title": "Fixer valeur %2 dans élément %1 et groupe %0",
-          "Parameters": [["Text", "Entrer le nom du groupe"],
-                         ["Text", "Entrer le nom de l'élément"],
-			 ["Integer", "Entrer la valeur"]] },
+        { "Title": "Definir valor %2 no item %1 e grupo %0",
+          "Parameters": [["Text", "Digite o nome do grupo"],
+                         ["Text", "Digite o nome do item"],
+			 ["Integer", "Digite o valor"]] },
 
-        { "Title": "Fixer chaîne %1 de l'élément %0",
-          "Parameters": [["Text", "Entrer le nom de l'élément"],
-                        ["Text", "Entrer la chaîne"]] },
+        { "Title": "Definir string %1 do item %0",
+          "Parameters": [["Text", "Digite o nome do item"],
+                        ["Text", "Digite a string"]] },
 
-        { "Title": "Fixer chaîne %2 de l'élément %1 dans le groupe %0",
-          "Parameters": [["Text", "Entrer le nom du groupe"],
-                         ["Text", "Entrer le nom de l'élément"],
-			 ["Text", "Entrer la chaîne"]] },
+        { "Title": "Definir string %2 do item %1 no grupo %0",
+          "Parameters": [["Text", "Digite o nome do grupo"],
+                         ["Text", "Digite o nome do item"],
+			 ["Text", "Digite a string"]] },
 
  
-        { "Title": "Détruire élément %0",
-          "Parameters": [["Text", "Entrer le nom de l'élément"]]
+        { "Title": "Excluir item %0",
+          "Parameters": [["Text", "Digite o nome do item"]]
         },
 
-        { "Title": "Détruire élément %1 dans groupe %0",
-          "Parameters": [["Text", "Entrer le nom du groupe"],
-			 ["Text", "Entrer le nom de l'élément"]]
+        { "Title": "Excluir item %1 no grupo %0",
+          "Parameters": [["Text", "Digite o nome do grupo"],
+			 ["Text", "Digite o nome do item"]]
         },
 
-        { "Title": "Détruire groupe %0",
-          "Parameters": [["Text", "Entrer le nom du groupe"]]
+        { "Title": "Excluir grupo %0",
+          "Parameters": [["Text", "Digite o nome do grupo"]]
         }
    ],
 
@@ -134,21 +134,21 @@
         },
         {   "Title": "ItemValue(",
             "Returns": "Integer",
-		"Parameters": [["Text", "Nom de l'élément"]]
+		"Parameters": [["Text", "Nome do item"]]
 		},
         {   "Title": "GroupItemValue(",
             "Returns": "Integer",
-		"Parameters": [["Text", "Nom de groupe"],
-        	         ["Text", "Nom de l'élément"]]
+		"Parameters": [["Text", "Nome do grupo"],
+        	         ["Text", "Nome do item"]]
 		},
         {   "Title": "ItemString$(",
             "Returns": "Text",
-	    "Parameters": [["Text", "Nom de l'élément"]]
+	    "Parameters": [["Text", "Nome do item"]]
         },
         {   "Title": "GroupItemString$(",
             "Returns": "Text",
-	    "Parameters": [["Text", "Nom de groupe"],
-                           ["Text", "Nom de l'élément"]]
+	    "Parameters": [["Text", "Nome do grupo"],
+                           ["Text", "Nome do item"]]
         }
 	]
 }
