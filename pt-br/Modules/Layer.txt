@@ -9,7 +9,7 @@
     "%o: %0 Below %1?": "\"%o: %0 Abaixo de %1?\"",
     "%o: %0 Between %1 and %2?": "\"%o: %0 Entre %1 e %2?\"",
     "%o: Layer %0 is visible?": "%o: A camada %0 está visível?",
-    "Allows you to change the order of the objects in a frame. Can also show, hide or move layers.": "Permite alterar a ordem dos objetos em um frame. Também pode mostrar, ocultar ou mover camadas.",
+    "Allows you to change the order of the objects in a frame. Can also show, hide or move layers.": "Permite alterar a ordem dos objetos em uma cena. Também pode mostrar, ocultar ou mover camadas.",
     "Alpha-blending coefficient (0-255)": "Coeficiente de mistura alfa (0-255)",
     "Bring %0 Forward %1": "Trazer %0 para Frente %1",
     "Bring %0 Forward One": "Trazer %0 Para Frente Um",

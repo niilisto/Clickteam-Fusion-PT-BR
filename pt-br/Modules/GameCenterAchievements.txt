@@ -41,7 +41,7 @@
     "Enter the text of the banner (use '%@' to display the name of the achievement)": "Digite o texto do banner (use '%@' para exibir o nome da conquista)",
     "Enter the title of the completion banner (use '%@' to display the name of the achievement)": "Digite o título do banner de conclusão (use '%@' para exibir o nome da conquista)",
     "Game Center Achievements": "Conquistas do Game Center",
-    "Icon to be used in the completion banner if the achievement cannot be found on the frame.": "Ícone a ser usado no banner de conclusão se o feito não puder ser encontrado no frame.",
+    "Icon to be used in the completion banner if the achievement cannot be found on the frame.": "Ícone a ser usado no banner de conclusão se o feito não puder ser encontrado na cena.",
     "If unchecked, a custom achievement banner will be displayed...": "Se não estiver selecionado, um banner personalizado de conquista será exibido...",
     "If unchecked, when multiple achievements are completed, the banners will be displayed at the same time.": "Se não estiver selecionado, quando vários resultados forem concluídos, os banners serão exibidos simultaneamente.",
     "Normal size": "Tamanho normal",

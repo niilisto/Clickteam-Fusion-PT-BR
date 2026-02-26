@@ -45,7 +45,7 @@
     "File error!": "Erro de arquivo!",
     "Fixed value: %d": "Valor fixo: %d",
     "Flags": "Bandeiras",
-    "Frame number: %i": "Número do frame: %i",
+    "Frame number: %i": "Número do cena: %i",
     "Frames per second: %i": "Quadros por segundo: %i",
     "Global strings": "Textos globais",
     "Global values": "Valores globais",

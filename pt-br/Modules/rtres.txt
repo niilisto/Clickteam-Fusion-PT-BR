@@ -25,7 +25,7 @@
     "Shift": "Shiftar",
     "Space bar": "Barra de Espaço",
     "Tab": "Guia",
-    "The current frame is not the same as the saved one.": "O frame atual não é o mesmo que o salvo.",
+    "The current frame is not the same as the saved one.": "A cena atual não é a mesma que a salva.",
     "This file is not a position file.": "Este arquivo não é um arquivo de posição.",
     "This file was not saved by this application.": "Este arquivo não foi salvo por este aplicativo.",
     "This file was saved by a incompatible version of the application.": "Este arquivo foi salvo por uma versão incompatível do aplicativo.",

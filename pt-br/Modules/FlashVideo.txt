@@ -22,7 +22,7 @@
     "Pause on start": "Pausar na inicialização",
     "Play from start": "Reproduzir do início",
     "Resume": "Retomar",
-    "Seek to frame #%0": "Buscar o frame #%0",
+    "Seek ta cena #%0": "Buscar a cena #%0",
     "Set URL to %0": "Definir URL para %0",
     "Set height to %0": "Definir altura para %0",
     "Set looping to %0": "Definir loop para %0",

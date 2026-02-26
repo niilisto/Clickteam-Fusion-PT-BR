@@ -2,7 +2,7 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "Check if the object should move at start of frame": "Verificar se o objeto deve mover no início do frame",
+    "Check if the object should move at start of frame": "Verificar se o objeto deve mover no início da cena",
     "Choose the strengh of the gravity": "Escolha a força da gravidade",
     "Deceleration": "Desaceleração",
     "Enter the deceleration factor": "Digite o fator de desaceleração",

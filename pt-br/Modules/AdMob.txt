@@ -38,7 +38,7 @@
     "Campaign for Android": "Campanha para Android",
     "Campaign for iOS": "Campanha para iOS",
     "Center": "Centralizar",
-    "Check here, if you want to display the ads over the frame": "Marque esta caixa se quiser exibir os anúncios sobre o frame",
+    "Check here, if you want to display the ads over the frame": "Marque esta caixa se quiser exibir os anúncios sobre a cena",
     "Destroy Ad Banner": "Destruir Banner de Anúncio",
     "Destroy Interstitial": "Destruir Intersticial",
     "Destroy Video": "Destruir Vídeo",

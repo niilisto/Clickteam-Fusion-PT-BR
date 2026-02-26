@@ -92,7 +92,7 @@
     "Open": "Abrir",
     "Open URL": "Abrir URL",
     "Open connection at start": "Abrir conexão na inicialização",
-    "Open the connection when the frame starts": "Abrir a conexão quando o frame iniciar",
+    "Open the connection when the frame starts": "Abrir a conexão quando a cena iniciar",
     "Options": "Opções",
     "Out of memory.": "Sem memória.",
     "Password": "Senha",

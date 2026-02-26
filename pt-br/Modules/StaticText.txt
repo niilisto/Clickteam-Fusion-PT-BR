@@ -32,7 +32,7 @@
     "Enter the text to display": "Digite o texto a ser exibido",
     "Font color": "Cor da fonte",
     "Left": "Esquerda",
-    "Makes the control visible at start of frame": "Torna o controle visível no início do frame",
+    "Makes the control visible at start of frame": "Torna o controle visível no início da cena",
     "Path ellipsis": "Caminho...",
     "Replaces part of the string by ... in the middle to fit": "Substitui parte da cadeia por ... no meio para ajustar",
     "Replaces the end of the string by ... to fit": "Substitui o final da cadeia de caracteres por ... para ajustar",

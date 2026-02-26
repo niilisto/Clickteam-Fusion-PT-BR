@@ -98,7 +98,7 @@
     "Show grid lines": "Mostrar linhas de grade",
     "Show grid lines (as in an Excel sheet": "Mostrar linhas de grade (como em uma planilha do Excel)",
     "Show selection": "Mostrar seleção",
-    "Shows the objet at start of frame": "Mostra o objeto no início do frame",
+    "Shows the objet at start of frame": "Mostra o objeto no início da cena",
     "Thick border": "Borda grossa",
     "Visible at start": "Visível no início",
     "Window": "Janela",
